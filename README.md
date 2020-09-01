@@ -1,6 +1,8 @@
 I have hosted the web app in google fire base("I used google to host google " XXD) . hence i cannot share firebase files and the link of the app but you cab have the preview of the application in the preview folder. 
 
-u can easily host your app on firebase using powershell/terminal and simple instructions on google firebase website
+The google custom searvh api allows only 100 searches per day, thats a limition from the api side but thats okay for standard day to day user.
+
+U can easily host your app on firebase using powershell/terminal and simple instructions on google firebase website
 
 Feel free to make changes in the the repositoryy branches to add upgrades :) 
 

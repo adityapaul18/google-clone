@@ -1,7 +1,7 @@
 🔥🔥NOTE🔥🔥 
 IN THE ABOVE FOLDERS, THERE ARE FILES CALLED KEYS.JS AND USEGOOGLESEARCH.JS , where u have to input your own api key and context keyfrom Google developer page , else if u fork or pull this repository, it won't work
 
-I have hosted the web app in google fire base("I used google to host google " XXD) . hence i cannot share firebase files and the link of the app but you cab have the preview of the application in the preview folder. 
+I have hosted the web app in google fire base("I used google to host google " XXD) . hence i cannot share firebase files and the link of the app but you can have the preview of the application in the preview folder. 
 
 The google custom searvh api allows only 100 searches per day, thats a limition from the api side but thats okay for standard day to day user.
 

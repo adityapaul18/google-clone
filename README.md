@@ -7,7 +7,7 @@ The google custom searvh api allows only 100 searches per day, thats a limition 
 
 U can easily host your app on firebase using powershell/terminal and simple instructions on google firebase website
 
-Feel free to make changes in the the repositoryy branches to add upgrades :) 
+Feel free to make changes in the the repository branches to add upgrades :) 
 
 ## Available Scripts
 
